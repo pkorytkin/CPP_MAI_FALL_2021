@@ -1,0 +1,3 @@
+Функция которая складывает 2 числа не зависимо от типа int int , double double, int double, double int
+Double -> double 
+Int -> int
